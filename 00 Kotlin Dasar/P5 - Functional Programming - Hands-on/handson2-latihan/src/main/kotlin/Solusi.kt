@@ -1,5 +1,4 @@
 fun isEvenLength(s: String): Boolean = s.length % 2 == 0
-
 fun toUpper(s: String): String = s.uppercase()
 
 fun main() {
